@@ -1,1 +1,4 @@
-to jest plik 
+to jest plik
+
+kolejna dopiska do pliku
+
